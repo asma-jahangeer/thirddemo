@@ -3,3 +3,5 @@ this is third file
 some changes in third file
 
 some new chages for fast sorward
+
+new changes for merge commit
